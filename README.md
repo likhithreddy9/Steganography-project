@@ -10,6 +10,8 @@ This project demonstrates **image steganography** using the **Least Significant 
 - Extract hidden messages from stego-images.
 - Simple command-line interface.
 - Pure Python implementation.
+- 🧠 Intuitive GUI using Python's Tkinter library
+🎨 Colorful and Elegant Interface
 
 ## 🛠️ Requirements
 
