@@ -20,10 +20,4 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 
-🚀 Usage
-➕ Hide a Message
-bash
-python steganography.py --encode -i input.png -o output.png -m "This is a hidden message."
-🔍 Reveal a Hidden Message
-bash
-python steganography.py --decode -i output.png
+pip install pillow
